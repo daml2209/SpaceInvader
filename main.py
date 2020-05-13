@@ -20,8 +20,8 @@ icon = pygame.image.load('img/title_icon.png')
 bullet_image = pygame.image.load('img/bullet.png')
 
 # Background sound
-mixer.music.load('sounds/Teminite_&_MDK_Space_Invaders.mp3')
-mixer.music.play(-1)
+# mixer.music.load('sounds/background_song.mp3')
+# mixer.music.play(-1)
 
 
 # Title and Icon
