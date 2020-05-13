@@ -22,11 +22,7 @@ SpaceInvader_POO: https://github.com/daml2209/SpaceInvader_POO
 
 ## Music
 
-Song: Space Invaders.
-
-Artist_1: Teminite
-
-Artist_2: MDK
+In order to have music in the game you can put any track that you want in the sound folder with the name: background_music.mp3 (if you have another extension it will be necesary to change the code then)
 
 ## License
 
