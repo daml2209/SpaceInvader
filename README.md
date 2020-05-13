@@ -14,11 +14,11 @@ In order to execute the game it will necesary to have **Python** installed as th
 
 This project was made using the basic python code. Throughout it we will see that this was written with the use of functions and not objects in order to understand the most basic pygame structure.
 
-For this reason, the code has certain limitations that will be resolved in the next project **(SpaceInvaders_POO)**, which will consist on applying everything learned in this project to make an improved version using **object-oriented programming**.
+For this reason, the code has certain limitations that will be resolved in the next project **(Space_Invaders_POO)**, which will consist on applying everything learned in this project to make an improved version using **object-oriented programming**.
 
 ## See also
 
-SpaceInvader_POO: https://github.com/daml2209/SpaceInvader_POO
+Space_Invaders_POO: https://github.com/daml2209/SpaceInvader_POO
 
 ## Music
 
