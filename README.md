@@ -23,7 +23,9 @@ SpaceInvader_POO: https://github.com/daml2209/SpaceInvader_POO
 ## Music
 
 Song: Space Invaders.
+
 Artist_1: Teminite
+
 Artist_2: MDK
 
 ## License
